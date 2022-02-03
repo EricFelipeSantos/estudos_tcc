@@ -1,0 +1,8 @@
+algoritimo de tomar café 
+
+acordar;
+ver se garrafa de café está cheia;
+se estiver vazia
+	fazer o café;
+se estiver cheia
+	tomar o café;
